@@ -8,6 +8,10 @@ body,
     padding-bottom: 20px;
 }
 
+body.page{
+    background-image: url('http://www.photoshopfreebrushes.com/wp-content/uploads/2015/08/subtle-web-background-14.jpg');
+}
+
 .main {
     background-color: black;
 }
